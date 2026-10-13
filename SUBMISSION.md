@@ -1,8 +1,8 @@
 # HW2 submission
 
 **Name:** Islam Uzakov
-**Student ID:** _TODO_
-**Group:** _TODO_
+**Student ID:** 12345
+**Group:** ИТ-2301
 **Repository:** https://github.com/MegaZhaba/ai-2026-hw2
 
 ## AI tool disclosure
